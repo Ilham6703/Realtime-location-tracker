@@ -39,17 +39,6 @@ This project is a real-time device tracking application that uses geolocation an
 ```
 
 
-## Usage
-
-1. Start the server:
-    ```bash
-    node app.js
-    ```
-2. Open your web browser and navigate to:
-    ```
-    http://localhost:3000
-    ```
-
 ## Middleware
 
 **Helmet**: A collection of middleware functions that help secure Express apps by setting various HTTP headers. In this project, it is used to set the Content Security Policy (CSP) headers to control the sources from which various resources can be loaded.
@@ -99,8 +88,3 @@ This project is a real-time device tracking application that uses geolocation an
 
 By combining these technologies and tools, the Real-time Device Tracker provides a robust solution for monitoring the locations of multiple devices in real-time and displaying them on an interactive map.
 
-## Support
-
-#### If you like this project, show your support & love!
-
-[![buy me a coffee](https://res.cloudinary.com/customzone-app/image/upload/c_pad,w_200/v1712840190/bmc-button_wl78gx.png)](https://www.buymeacoffee.com/akashsunile)
