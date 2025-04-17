@@ -1,0 +1,26 @@
+{
+  "name": "real-time-device-tracker",
+  "version": "1.0.0",
+  "description": "![Trip-Replay-2](https://github.com/user-attachments/assets/176356fa-566f-41ef-a4bb-8bd96e7c0eca)",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "helmet": "^7.2.0",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK2k30/Real-time-device-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AK2k30/Real-time-device-tracker/issues"
+  },
+  "homepage": "https://github.com/AK2k30/Real-time-device-tracker#readme"
+}
