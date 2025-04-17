@@ -38,20 +38,6 @@ This project is a real-time device tracking application that uses geolocation an
 └── README.md
 ```
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/realtime-device-tracker.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd realtime-device-tracker
-    ```
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
 
 ## Usage
 
